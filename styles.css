@@ -1,0 +1,118 @@
+h1,h2,h3{
+    font-weight: 900 ;
+    font-family: "Montserrat";
+}
+
+body{
+    margin: auto 20px;
+}
+
+/* Title section */
+
+.title{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family:"Sarala";
+    font-style: 700;
+    padding: 15px 25px;
+
+}
+/* Nav-bar */
+.nav-link{
+    font-family: "Montserrat";
+    font-weight: bold;
+    word-spacing: 10px;
+    padding: 5%;
+}
+@media(max-width: 1028px){
+    gif{
+    text-align: center; 
+    max-width: 100%;
+    }
+}
+.Fitness-color{
+    color: grey;
+}
+
+.adjust{
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    font-size: 2.5rem ;
+}
+
+/* Big Heading */
+.big-heading{
+    font-size: 3.5rem;
+}
+
+/* Feature section */
+#feature{
+    font-family: "Montserrat";
+    text-align: center;
+}
+.white-section{
+    background-color: white;
+}
+
+.feature-title{
+    font-size: 1.5rem;
+}
+
+.feature-box{
+    padding: 5%;
+    text-align: center;
+}
+
+.icon{
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: grey;
+}
+
+/* Membership Section */
+.membership-heading{
+    font-size: 3rem;
+}
+.sevendaypass{
+    background-color: black;
+    text-align: center;
+}
+#membership{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    background-color: gray;
+}
+button{
+    font-weight: bold !important;
+}
+.price-text{
+    line-height: 1.5;
+}
+
+#contact{
+    background-color: black;
+    color: white;
+    padding: 20px 0px;
+    font-family: "Montserrat";
+
+}
+
+.about-us{
+    padding-right: 10rem;
+}
+
+/* Resouces section */
+#slide{
+    background-color:gray;
+    text-align: center;
+    padding: 20px;
+}
+.carousel-pic{
+    width: 1285px;
+    height: 720px;
+}
