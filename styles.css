@@ -113,6 +113,11 @@ button{
     padding: 20px;
 }
 .carousel-pic{
-    width: 1285px;
-    height: 720px;
+    width: 100%;
 }
+
+img{
+    object-fit: cover;
+    width: 100%;
+}
+\
